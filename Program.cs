@@ -2,6 +2,7 @@
 
 namespace ConsoleApplication
 {
+    // Customer class stores customer details
     class Customer
     {
         public string Name { get; set; }
@@ -93,6 +94,7 @@ namespace ConsoleApplication
             Console.WriteLine("Discount: {0:C}", discount);
             Console.WriteLine("--------------------------------------------");
             Console.WriteLine("Amount Payable: {0:C}", totalCost - discount);
+            Console.WriteLine("Thank you for your order.");
             Console.WriteLine("--------------------------------------------");
         }
     }
