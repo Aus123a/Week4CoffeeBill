@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Assignments\April\F47\Week4CoffeeBill\bin\Debug\Week4CoffeeBill.exe.config
+C:\Users\user\Desktop\Assignments\April\F47\Week4CoffeeBill\bin\Debug\Week4CoffeeBill.exe
+C:\Users\user\Desktop\Assignments\April\F47\Week4CoffeeBill\bin\Debug\Week4CoffeeBill.pdb
+C:\Users\user\Desktop\Assignments\April\F47\Week4CoffeeBill\obj\Debug\Week4CoffeeBill.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Assignments\April\F47\Week4CoffeeBill\obj\Debug\Week4CoffeeBill.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Assignments\April\F47\Week4CoffeeBill\obj\Debug\Week4CoffeeBill.exe
+C:\Users\user\Desktop\Assignments\April\F47\Week4CoffeeBill\obj\Debug\Week4CoffeeBill.pdb
